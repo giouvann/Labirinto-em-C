@@ -1,11 +1,11 @@
-# 🧩 Labirinto em C
+# Labirinto em C
 
 Um pequeno jogo de **labirinto em C**, onde o jogador precisa mover o personagem até a saída, pegando a chave e abrindo a porta no caminho.  
-O jogo é totalmente baseado em texto e roda direto no terminal! 🖥️
+O jogo é totalmente baseado em texto e roda direto no terminal! 
 
 ---
 
-## 🎮 Como jogar
+## Como jogar
 
 O objetivo é mover o personagem (`S`) até a saída (`F`).
 
@@ -33,7 +33,7 @@ D → mover para a direita
 
 ---
 
-## 🗺️ Regras do jogo
+## Regras do jogo
 
 1. Pegue a chave (`K`) antes de tentar abrir a porta (`P`);
 2. Evite os obstáculos (`*`);
@@ -42,7 +42,7 @@ D → mover para a direita
 
 ---
 
-## 🧠 Como funciona
+## Como funciona
 
 O jogo usa uma **matriz 5x5** para representar o cenário.  
 A cada jogada, o programa:
@@ -54,7 +54,7 @@ A cada jogada, o programa:
 
 ---
 
-## 🧰 Como compilar e executar
+## Como compilar e executar
 
 No terminal, use os comandos:
 
@@ -69,7 +69,7 @@ _ _ * _ *
 * _ * _ F
 
 Mova seu personagem 'S' (W = para cima, S = para baixo, A = esquerda, D = direita):
-🏁 Objetivo final
+Objetivo final
 
 Chegar até o F com sucesso:
 Parabéns, você chegou no final do labirinto!
