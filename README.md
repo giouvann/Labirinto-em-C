@@ -68,9 +68,11 @@ S _ _ K *
 _ _ * _ *
 * _ * _ F
 
-Mova seu personagem 'S' (W = para cima, S = para baixo, A = esquerda, D = direita):
-Objetivo final
+```
+Mova seu personagem 'S' (W = para cima, S = para baixo, A = esquerda, D = direita)
+Objetivo final: chegar até o F com sucesso.
 
-Chegar até o F com sucesso:
+```bash
 Parabéns, você chegou no final do labirinto!
+```
 
