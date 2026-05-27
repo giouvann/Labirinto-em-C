@@ -21,7 +21,7 @@ Durante o jogo, você encontrará:
 
 ---
 
-## ⌨️ Controles
+## Controles
 
 Use as teclas abaixo para se mover:
 
